@@ -106,5 +106,5 @@ console.log(name);
 prompt(surname);
 console.log(surname);
 
-prompt(age);
++prompt(age);
 console.log(age);
