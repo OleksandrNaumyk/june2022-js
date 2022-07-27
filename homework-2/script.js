@@ -104,4 +104,12 @@ let arr2 = [
 
 
 console.log(arr2[0].password);
-
+console.log(arr2[1].password);
+console.log(arr2[2].password);
+console.log(arr2[3].password);
+console.log(arr2[4].password);
+console.log(arr2[5].password);
+console.log(arr2[6].password);
+console.log(arr2[7].password);
+console.log(arr2[8].password);
+console.log(arr2[9].password);
