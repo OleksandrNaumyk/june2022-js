@@ -1,0 +1,10 @@
+.product-card {
+    font-size: 16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.product-image {
+    height: 100px;
+    width: 100px;
+}
